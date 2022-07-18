@@ -252,34 +252,5 @@ void run(int rank, int size)
                 }
             }    
         }  
-
-
-
-
-
-
-        // cout << endl; 
-        // for (int i = 0; i < count; i++)
-        // {
-        //     for (int j = 0; j < count; j++)
-        //     {
-        //         cout << arr[i][j] << " ";
-        //     }
-        //     cout << endl;
-        // }     
-    
-        
     }
-
-    // cout << endl; 
-    // for (int i = 1; i < count/size + 1; i++)
-    // {
-    //     cout << rank << "   ";
-    //     for (int j = 1; j < count - 1; j++)
-    //     {
-    //         cout << arr[i][j] << " ";
-    //     }
-    //         cout << endl;
-    // }
-
 }
